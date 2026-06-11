@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Randi 👋</h1>
+<h1 align="center">Hi, I'm Randir 👋</h1>
 <h3 align="center">Frontend Developer · React & Next.js · Based in Helsinki, Finland 🇫🇮</h3>
 
 <p align="center">
