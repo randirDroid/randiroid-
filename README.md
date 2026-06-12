@@ -47,7 +47,7 @@ const randir = {
 <br/>
 
 <!-- GitHub Stats -->
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics -->
 <!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=randiroid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="165" />
@@ -65,7 +65,7 @@ const randir = {
 <br/>
 
 <!-- Quote -->
-## 💭 Dev Quote
+<!-- ## 💭 Dev Quote -->
 
 <!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
