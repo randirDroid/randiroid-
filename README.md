@@ -1,68 +1,94 @@
-<h1 align="center">Hi, I'm Randi 👋</h1>
-<h3 align="center">Frontend Developer · React & Next.js · Based in Helsinki, Finland 🇫🇮</h3>
+<!-- Header banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Randir&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=58" width="100%"/>
+</div>
 
-<p align="center">
-  I build fast, accessible, pixel-perfect web experiences — and I'm currently <b>open to frontend roles</b>.
-</p>
+<!-- Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=I+build+interfaces+people+love+to+use;Pixel-perfect.+Responsive.+Fast.;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="mailto:mohamadhajisolat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+<br/>
 
----
+<!-- About -->
+## 🧑‍💻 About Me
 
-## 🚀 About Me
+```javascript
+const randir = {
+  role: "Frontend Developer",
+  focus: ["Clean UI", "Smooth animations", "Responsive design"],
+  stack: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+  designInspiration: ["Apple", "Stripe", "Linear", "Framer"],
+  currentlyLearning: "Always something new",
+  funFact: "I judge websites by their hover states 😄"
+};
+```
 
-- 💼 Frontend developer focused on **React, Next.js, and TypeScript**
-- 🎯 I care about **performance, accessibility (a11y), and clean component architecture**
-- 🌱 Currently deepening my skills in **Next.js App Router, React Server Components, and testing**
-- 💬 Ask me about React patterns, responsive design, or squeezing points out of Lighthouse
-- 📫 Reach me at **your.email@example.com**
+- 🎨 Obsessed with **premium, polished UI** — glassmorphism, micro-interactions, motion design
+- 📱 I make sure everything looks great from **320px to 4K**
+- ⚡ Performance matters: lightweight, fast, no bloat
+- 🌱 Constantly exploring new design trends and frontend techniques
 
+<br/>
+
+<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
-**Core**
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Core
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" height="50" />
 
-**Styling & UI**
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="50" />
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</div>
 
-**Tools & Testing**
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<!-- GitHub Stats -->
+## 📊 GitHub Analytics
 
-## 📌 Featured Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randiroid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiroid&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
+</div>
 
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| **Project One** | One-line pitch: what it does and why it's impressive (e.g. "E-commerce storefront with 98 Lighthouse score") | Next.js, TypeScript, Tailwind | [Live](https://example.com) · [Code](https://github.com/randiroid/project-one) |
-| **Project Two** | One-line pitch (e.g. "Real-time dashboard with WebSockets and charting") | React, Vite, Recharts | [Live](https://example.com) · [Code](https://github.com/randiroid/project-two) |
-| **Project Three** | One-line pitch (e.g. "Accessible component library with full keyboard support") | React, Storybook, Jest | [Live](https://example.com) · [Code](https://github.com/randiroid/project-three) |
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=randiroid&theme=tokyonight&hide_border=true&background=00000000" height="170" />
+</div>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=randiroid&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="95%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=randiroid&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiroid&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165"/>
-</p>
+<br/>
 
----
+<!-- Quote -->
+## 💭 Dev Quote
 
-<p align="center">
-  💼 <b>Open to work</b> — frontend roles (on-site Helsinki / remote EU). Let's talk!
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<br/>
+
+<!-- Contact -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=randiroid&style=for-the-badge&color=6366f1" alt="Profile views" />
+
+</div>
+
+<!-- Footer banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" width="100%"/>
+</div>
