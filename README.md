@@ -90,5 +90,5 @@ const randir = {
 
 <!-- Footer banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f9d57,100:0e7a3f:0ea5e9&height=120&section=footer" width="100%"/>
 </div>
