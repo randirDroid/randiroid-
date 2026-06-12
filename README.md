@@ -48,7 +48,7 @@ const randir = {
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
-
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=randiroid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiroid&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
@@ -60,18 +60,18 @@ const randir = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=randiroid&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="95%" />
-</div>
+</div> -->
 
 <br/>
 
 <!-- Quote -->
 ## 💭 Dev Quote
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- Contact -->
 ## 🤝 Let's Connect
@@ -84,7 +84,7 @@ const randir = {
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=randiroid&style=for-the-badge&color=6366f1" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=randiroid&style=for-the-badge&color=6366f1" alt="Profile views" /> -->
 
 </div>
 
