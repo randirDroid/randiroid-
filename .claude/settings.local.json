@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-Content \"c:\\\\Users\\\\EXO\\\\Desktop\\\\Randir\\\\profile\\\\randir\\\\support.js\")"
+    ]
+  }
+}
